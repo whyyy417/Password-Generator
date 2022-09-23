@@ -51,6 +51,12 @@ button{
     background-color: #10b982;
     border: none;
     border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #ddeae1;
+    color: #10b982
 }
 
 .separator{
@@ -74,7 +80,7 @@ button{
     height: 20%;
     padding: 2%;
     border-radius: 5px;
-    font-size: 80%;
+    font-size: 75%;
     background-color: #283549;
 }
 
